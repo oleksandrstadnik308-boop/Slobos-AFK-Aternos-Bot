@@ -2,13 +2,13 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Slobot00",
-    "password": "",
+    "password": "Stadnik2611o",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "Tainworld.aternos.me",
+    "port": 61013,
+    "version": "1.16.5",
     "try-creative": false
   },
   "position": {
